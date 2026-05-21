@@ -1,0 +1,16 @@
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.AssemblyInfoInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.AssemblyInfo.cs
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.csproj.CoreCompileInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.sourcelink.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\bin\Debug\net8.0\Exercises14.exe
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\bin\Debug\net8.0\Exercises14.deps.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\bin\Debug\net8.0\Exercises14.runtimeconfig.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\bin\Debug\net8.0\Exercises14.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\bin\Debug\net8.0\Exercises14.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\refint\Exercises14.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\Exercises14.genruntimeconfig.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\obj\Debug\net8.0\ref\Exercises14.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter3\Exercises14\bin\Debug\net8.0\data.txt
