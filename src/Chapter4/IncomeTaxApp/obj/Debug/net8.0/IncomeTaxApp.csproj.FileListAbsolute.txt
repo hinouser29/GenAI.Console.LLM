@@ -1,0 +1,15 @@
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\bin\Debug\net8.0\IncomeTaxApp.exe
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\bin\Debug\net8.0\IncomeTaxApp.deps.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\bin\Debug\net8.0\IncomeTaxApp.runtimeconfig.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\bin\Debug\net8.0\IncomeTaxApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\bin\Debug\net8.0\IncomeTaxApp.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.AssemblyInfoInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.AssemblyInfo.cs
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.csproj.CoreCompileInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.sourcelink.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\refint\IncomeTaxApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\IncomeTaxApp.genruntimeconfig.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\IncomeTaxApp\obj\Debug\net8.0\ref\IncomeTaxApp.dll

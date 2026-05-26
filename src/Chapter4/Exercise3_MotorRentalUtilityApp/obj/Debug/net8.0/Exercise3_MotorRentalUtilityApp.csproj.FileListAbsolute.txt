@@ -1,0 +1,15 @@
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\bin\Debug\net8.0\Exercise3_MotorRentalUtilityApp.exe
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\bin\Debug\net8.0\Exercise3_MotorRentalUtilityApp.deps.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\bin\Debug\net8.0\Exercise3_MotorRentalUtilityApp.runtimeconfig.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\bin\Debug\net8.0\Exercise3_MotorRentalUtilityApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\bin\Debug\net8.0\Exercise3_MotorRentalUtilityApp.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.AssemblyInfoInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.AssemblyInfo.cs
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.csproj.CoreCompileInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.sourcelink.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\refint\Exercise3_MotorRentalUtilityApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\Exercise3_MotorRentalUtilityApp.genruntimeconfig.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise3_MotorRentalUtilityApp\obj\Debug\net8.0\ref\Exercise3_MotorRentalUtilityApp.dll

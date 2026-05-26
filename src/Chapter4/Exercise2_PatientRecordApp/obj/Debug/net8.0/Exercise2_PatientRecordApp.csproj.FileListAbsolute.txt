@@ -1,0 +1,15 @@
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\bin\Debug\net8.0\Exercise2_PatientRecordApp.exe
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\bin\Debug\net8.0\Exercise2_PatientRecordApp.deps.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\bin\Debug\net8.0\Exercise2_PatientRecordApp.runtimeconfig.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\bin\Debug\net8.0\Exercise2_PatientRecordApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\bin\Debug\net8.0\Exercise2_PatientRecordApp.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.AssemblyInfoInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.AssemblyInfo.cs
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.csproj.CoreCompileInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.sourcelink.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\refint\Exercise2_PatientRecordApp.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\Exercise2_PatientRecordApp.genruntimeconfig.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter4\Exercise2_PatientRecordApp\obj\Debug\net8.0\ref\Exercise2_PatientRecordApp.dll
