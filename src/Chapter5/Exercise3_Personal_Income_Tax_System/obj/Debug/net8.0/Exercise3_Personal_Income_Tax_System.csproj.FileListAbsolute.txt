@@ -1,0 +1,15 @@
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\bin\Debug\net8.0\Exercise3_Personal_Income_Tax_System.exe
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\bin\Debug\net8.0\Exercise3_Personal_Income_Tax_System.deps.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\bin\Debug\net8.0\Exercise3_Personal_Income_Tax_System.runtimeconfig.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\bin\Debug\net8.0\Exercise3_Personal_Income_Tax_System.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\bin\Debug\net8.0\Exercise3_Personal_Income_Tax_System.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.AssemblyInfoInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.AssemblyInfo.cs
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.csproj.CoreCompileInputs.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.sourcelink.json
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\refint\Exercise3_Personal_Income_Tax_System.dll
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.pdb
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\Exercise3_Personal_Income_Tax_System.genruntimeconfig.cache
+C:\FPTU\github-classroom\assignmen-1-hinouser29\src\Chapter5\Exercise3_Personal_Income_Tax_System\obj\Debug\net8.0\ref\Exercise3_Personal_Income_Tax_System.dll

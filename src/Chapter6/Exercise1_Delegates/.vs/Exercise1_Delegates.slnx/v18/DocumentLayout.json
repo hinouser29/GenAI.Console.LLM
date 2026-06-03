@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BE1CB-0CD7-4112-8297-30448B75AF5F}|Exercise1_Delegates.csproj|c:\\fptu\\github-classroom\\assignmen-1-hinouser29\\src\\chapter6\\exercise1_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BE1CB-0CD7-4112-8297-30448B75AF5F}|Exercise1_Delegates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BE1CB-0CD7-4112-8297-30448B75AF5F}|Exercise1_Delegates.csproj|c:\\fptu\\github-classroom\\assignmen-1-hinouser29\\src\\chapter6\\exercise1_delegates\\delegates_linq\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BE1CB-0CD7-4112-8297-30448B75AF5F}|Exercise1_Delegates.csproj|solutionrelative:delegates_linq\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BE1CB-0CD7-4112-8297-30448B75AF5F}|Exercise1_Delegates.csproj|c:\\fptu\\github-classroom\\assignmen-1-hinouser29\\src\\chapter6\\exercise1_delegates\\delegates_linq\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BE1CB-0CD7-4112-8297-30448B75AF5F}|Exercise1_Delegates.csproj|solutionrelative:delegates_linq\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\Delegates_LINQ\\DataManager.cs",
+              "RelativeDocumentMoniker": "Delegates_LINQ\\DataManager.cs",
+              "ToolTip": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\Delegates_LINQ\\DataManager.cs",
+              "RelativeToolTip": "Delegates_LINQ\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:20:09.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notifier.cs",
+              "DocumentMoniker": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\Delegates_LINQ\\Notifier.cs",
+              "RelativeDocumentMoniker": "Delegates_LINQ\\Notifier.cs",
+              "ToolTip": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\Delegates_LINQ\\Notifier.cs",
+              "RelativeToolTip": "Delegates_LINQ\\Notifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:20:01.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FPTU\\github-classroom\\assignmen-1-hinouser29\\src\\Chapter6\\Exercise1_Delegates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T16:19:36.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
