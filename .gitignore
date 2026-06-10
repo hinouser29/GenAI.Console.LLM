@@ -1,0 +1,13 @@
+## Thư mục build và output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## Các file rác của Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vsidx

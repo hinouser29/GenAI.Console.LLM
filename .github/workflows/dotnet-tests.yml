@@ -1,0 +1,43 @@
+name: CI - .NET Build & Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Setup .NET SDK 8.0
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+          cache: false
+
+      - name: Restore dependencies
+        run: dotnet restore # CLI tự động quét và khôi phục bất kỳ file .sln nào ở thư mục gốc
+
+      - name: Build ứng dụng
+        run: dotnet build --configuration Release --no-restore # Tự động tìm kiếm file .sln để build
+
+      - name: Thực thi kiểm thử và thu thập báo cáo độ bao phủ
+        run: >
+          dotnet test UnitTest/UnitTest.csproj
+          --configuration Release --no-build
+          --collect:"XPlat Code Coverage"
+          --logger "trx;LogFileName=test-results.trx"
+
+      - name: Tải báo cáo kiểm thử lên GitHub Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: |
+            **/TestResults/*.trx
+            **/TestResults/**/coverage.cobertura.xml
